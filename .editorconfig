@@ -1,10 +1,12 @@
-root = true
+
 # Microsoft Code-style rule options: https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/code-style-rule-options
 # Microsoft C# code conventions:  https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference
 # StyleCop Analyzer doc: https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/DOCUMENTATION.md
 # Jetbrains Rider C# code style with EditorConfig: https://www.jetbrains.com/help/fleet/using-editorconfig.html
 
-# Remove the line below if you want to inherit .editorconfig settings from higher directories
+# top-most EditorConfig file
+root = true
+
 
 # C# files
 [*.cs]
